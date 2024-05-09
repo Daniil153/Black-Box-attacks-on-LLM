@@ -25,10 +25,12 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-логин/attack-generation-project.git
+   git clone https://github.com/ваш-логин/Black-Box-attacks-on-LLM.git
    ```
 2. Перейдите в директорию проекта:
-3. cd Black-Box-attacks-on-LLM
+   ```bash
+   cd Black-Box-attacks-on-LLM
+   ```
 
 ### Использование
 1. Для генерации примеров с использованием базовых методов атак:
